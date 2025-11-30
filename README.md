@@ -1,5 +1,5 @@
-# MODFLOW 6 Groundwater Flow Modeling - SUMALA Aquifer System
-# MODFLOW 6 地下水流动模型 - SUMALA 含水层系统
+# MODFLOW 6 Groundwater Flow Modeling - SUMALA
+# MODFLOW 6 地下水流动模型 - SUMALA
 
 ---
 
