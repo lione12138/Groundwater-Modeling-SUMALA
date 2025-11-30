@@ -1,0 +1,18 @@
+# Output Control file created on 2025/11/25 by ModelMuse version 5.4.0.0.
+BEGIN OPTIONS
+  BUDGET FILEOUT 'Steady_cali.cbc'
+  HEAD FILEOUT 'Steady_cali.bhd'
+END OPTIONS
+
+BEGIN PERIOD      1
+  SAVE HEAD ALL
+  PRINT BUDGET ALL
+  SAVE BUDGET ALL
+END PERIOD 
+
+BEGIN PERIOD      2
+  SAVE HEAD ALL
+  PRINT BUDGET ALL
+  SAVE BUDGET ALL
+END PERIOD 
+

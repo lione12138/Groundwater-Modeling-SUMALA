@@ -1,0 +1,39 @@
+{
+  "timestamp": "20251119_111522",
+  "method": "Bayesian Optimization",
+  "n_existing_samples": 100,
+  "n_bo_iterations": 50,
+  "n_successful": 50,
+  "target_metric": "Overall_R2",
+  "initial_best": 0.7992224973789128,
+  "final_best": 0.7992224973789128,
+  "improvement": 0.0,
+  "improvement_percent": 0.0,
+  "best_actual_metric": 0.7450857148352779,
+  "parameters": {
+    "clean_gravel": {
+      "Sy": 0.309,
+      "Ss": 3.7153522909717276e-06
+    },
+    "clayey_sand": {
+      "Sy": 0.227,
+      "Ss": 1.445439770745928e-05
+    },
+    "loamy_sand": {
+      "Sy": 0.289,
+      "Ss": 7.585775750291836e-06
+    },
+    "sandstone": {
+      "Sy": 0.001,
+      "Ss": 3.090295432513592e-05
+    },
+    "sandy_gravel": {
+      "Sy": 0.206,
+      "Ss": 2.238721138568338e-05
+    },
+    "limestone": {
+      "Sy": 0.001,
+      "Ss": 7.079457843841373e-06
+    }
+  }
+}

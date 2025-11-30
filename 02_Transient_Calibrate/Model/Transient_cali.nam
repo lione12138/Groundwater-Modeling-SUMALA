@@ -1,0 +1,19 @@
+# Name File for MODFLOW created on 2025/11/25 by ModelMuse Version 5.4.0.0
+BEGIN OPTIONS
+  LIST Transient_cali.lst
+  PRINT_INPUT
+  SAVE_FLOWS
+END OPTIONS
+
+BEGIN PACKAGES
+  DIS6         Transient_cali.dis  DIS
+  IC6          Transient_cali.ic  IC
+  NPF6         Transient_cali.npf  NPF
+  OBS6         Transient_cali.ob_gw
+  STO6         Transient_cali.sto  STO
+  OC6          Transient_cali.oc  OC
+  GHB6         Transient_cali.ghb  GHB-1
+  WEL6         Transient_cali.wel  WEL-1
+  RIV6         Transient_cali.riv  RIV-1
+  RCH6         Transient_cali.rch  RCH-1
+END PACKAGES

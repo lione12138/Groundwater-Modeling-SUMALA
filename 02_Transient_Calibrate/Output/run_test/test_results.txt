@@ -1,0 +1,30 @@
+MODFLOW6 Transient Model - Test Run Results
+==================================================
+
+Parameters:
+  clean_gravel:
+    Sy = 0.3
+    Ss = 3.37e-05
+  clayey_sand:
+    Sy = 0.15
+    Ss = 0.00537
+  loamy_sand:
+    Sy = 0.19
+    Ss = 0.0097
+  sandstone:
+    Sy = 0.001
+    Ss = 0.000858
+  sandy_gravel:
+    Sy = 0.22
+    Ss = 2.66e-05
+  limestone:
+    Sy = 0.001
+    Ss = 0.00989
+
+Metrics:
+  P1_RMSE = 0.2245
+  P1_R2 = 0.6414
+  Pz12_RMSE = 0.0500
+  Pz12_R2 = 0.8856
+  Overall_RMSE = 0.1372
+  Overall_R2 = 0.7635

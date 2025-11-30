@@ -1,0 +1,21 @@
+# OBS: Observation Utility file created on 2025/11/16 by ModelMuse version 5.4.0.0.
+BEGIN OPTIONS
+    DIGITS     10
+    PRINT_INPUT
+END OPTIONS
+
+BEGIN CONTINUOUS FILEOUT Steady_cali.ob_gw_out_head.csv
+  'hd__1_63_61' head     1    63    61
+  'hd__1_48_76' head     1    48    76
+  'hd__1_41_82' head     1    41    82
+  'hd__1_86_51' head     1    86    51
+  'hd__1_38_35' head     1    38    35
+  'hd__1_118_33' head     1   118    33
+  'hd__1_111_87' head     1   111    87
+  'hd__1_40_14' head     1    40    14
+  'hd__1_27_108' head     1    27   108
+  'hd__1_7_52' head     1     7    52
+  'hd__1_14_9' head     1    14     9
+  'hd__2_63_61' head     2    63    61
+END CONTINUOUS
+

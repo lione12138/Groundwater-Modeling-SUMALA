@@ -1,0 +1,171 @@
+# WEL: Well package file created on 2025/11/17 by ModelMuse version 5.4.0.0.
+BEGIN OPTIONS
+    AUXILIARY IFACE
+    BOUNDNAMES
+    PRINT_INPUT
+    SAVE_FLOWS
+    AUTO_FLOW_REDUCE  1.000000000000E-006 
+END OPTIONS
+
+BEGIN DIMENSIONS
+  MAXBOUND    76
+END DIMENSIONS
+
+BEGIN PERIOD      1
+     1     2     1  3.125649368997E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     4     2  4.585109003862E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     5     2  5.329855410638E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     6     3  1.295785485956E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     7     3  5.329855410638E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     8     3  5.053054154929E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    13     4  1.993366980267E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    14     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    15     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    16     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    17     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    18     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    19     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    25     5  2.992694193185E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    26     5  5.002556711724E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    27     5  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    28     5  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    29     5  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    30     5  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    31     6  7.447440429446E-012      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    32     6  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    33     6  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    34     6  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    35     6  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    37     7  2.394443607259E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    38     7  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    39     7  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    40     7  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    43     8  3.378218942631E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    44     8  3.658005621286E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    45     8  3.048338104108E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    46     8  2.540281774850E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    47     8  2.116901499684E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    60     9  6.383118129873E-012      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    61     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    62     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    63     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    64     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    65     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    66     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    67     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    68     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    69     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    70     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    71     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    82    10  2.953935593341E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    83    10  4.346327989803E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    84    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    85    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    86    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    87    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    88    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    89    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    90    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    91    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    92    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    93    10  5.003982401932E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    94    10  5.053028597098E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    95    10  5.053028597098E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    96    10  2.017509586386E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    99     9  5.053028597098E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   100     9  5.053028597098E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   101     9  4.535585646511E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   103     8  5.287885989744E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   104     8  3.596278994246E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   107     7  2.511584432247E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   110     6  1.426889870248E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   113     5  3.421953082491E-012      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   116     4  3.856115472080E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   118     3  5.156267572105E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   119     3  5.156267572105E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   120     3  4.530075038949E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   125     2  5.002495721044E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   126     2  5.002495721044E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   127     2  5.002495721044E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    64    61  0.000000000000E+000      0 'Pumping_well'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Pumping_well with formula: 0
+END PERIOD 
+
+BEGIN PERIOD      2
+     1     2     1  3.125649368997E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     4     2  4.585109003862E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     5     2  5.329855410638E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     6     3  1.295785485956E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     7     3  5.329855410638E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1     8     3  5.053054154929E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    13     4  1.993366980267E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    14     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    15     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    16     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    17     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    18     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    19     4  4.996636064593E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    25     5  2.992694193185E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    26     5  5.002556711724E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    27     5  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    28     5  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    29     5  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    30     5  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    31     6  7.447440429446E-012      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    32     6  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    33     6  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    34     6  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    35     6  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    37     7  2.394443607259E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    38     7  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    39     7  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    40     7  5.055530922902E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    43     8  3.378218942631E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    44     8  3.658005621286E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    45     8  3.048338104108E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    46     8  2.540281774850E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    47     8  2.116901499684E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    60     9  6.383118129873E-012      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    61     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    62     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    63     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    64     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    65     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    66     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    67     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    68     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    69     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    70     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    71     9  1.011106184580E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    82    10  2.953935593341E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    83    10  4.346327989803E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    84    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    85    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    86    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    87    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    88    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    89    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    90    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    91    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    92    10  4.981170218134E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    93    10  5.003982401932E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    94    10  5.053028597098E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    95    10  5.053028597098E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    96    10  2.017509586386E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    99     9  5.053028597098E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   100     9  5.053028597098E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   101     9  4.535585646511E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   103     8  5.287885989744E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   104     8  3.596278994246E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   107     7  2.511584432247E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   110     6  1.426889870248E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   113     5  3.421953082491E-012      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   116     4  3.856115472080E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   118     3  5.156267572105E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   119     3  5.156267572105E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   120     3  4.530075038949E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   125     2  5.002495721044E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   126     2  5.002495721044E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1   127     2  5.002495721044E-011      0 'Slope_Recharge'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Slope_Recharge with formula: (5E-9 * ObjectSectionIntersectLength) / ObjectLength
+     1    64    61 -2.778000000000E-002      0 'Pumping_well'  # Data Set 6: Layer Row Column Q IFACE boundname Intersected by Pumping_well with formula: -0.02778
+END PERIOD 
+

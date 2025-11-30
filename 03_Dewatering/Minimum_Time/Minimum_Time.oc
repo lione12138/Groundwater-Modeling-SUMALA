@@ -1,0 +1,18 @@
+# Output Control file created on 2025/11/28 by ModelMuse version 5.4.0.0.
+BEGIN OPTIONS
+  BUDGET FILEOUT 'Minimum_Time.cbc'
+  HEAD FILEOUT 'Minimum_Time.bhd'
+END OPTIONS
+
+BEGIN PERIOD      1
+  SAVE HEAD ALL
+  PRINT BUDGET ALL
+  SAVE BUDGET ALL
+END PERIOD 
+
+BEGIN PERIOD      2
+  SAVE HEAD ALL
+  PRINT BUDGET ALL
+  SAVE BUDGET ALL
+END PERIOD 
+
