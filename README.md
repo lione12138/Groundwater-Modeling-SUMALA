@@ -158,7 +158,7 @@ pip install flopy numpy pandas scipy matplotlib seaborn fiona shapely
 ### Authors
 
 - Graduate Student, Ghent University
-- Course: Ground Water Modelling (2024-2025)
+- Course: Ground Water Modelling (2025-2026)
 
 ### License
 
@@ -321,7 +321,7 @@ pip install flopy numpy pandas scipy matplotlib seaborn fiona shapely
 ### 作者
 
 - 根特大学研究生
-- 课程：地下水模拟 (2024-2025)
+- 课程：地下水模拟 (2025-2026)
 
 ### 许可证
 
